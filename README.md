@@ -12,3 +12,6 @@ The [Transport Project Notebook](transport-project.ipynb) contains the code, ana
    2. How does the Rural/Urban Classification of Norfolk and West Yorkshire MSOAs differ?
    3. Is there a difference in the transport methods that people use to travel to work in Norfolk and West Yorkshire?
    4. Can income be explained by transport methods in Norfolk and West Yorkshire?
+
+
+The [Geodemographic Classifier](geodemographic-classifier.ipynb) notebook contains the process of building a classifier in both Liverpool and Bradford using census data. This was my contribution of a group project, whereby the task was to assess whether high streets served the surrounding populations.
