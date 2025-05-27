@@ -15,3 +15,5 @@ The [Transport Project Notebook](transport-project.ipynb) contains the code, ana
 
 
 The [Geodemographic Classifier](geodemographic-classifier.ipynb) notebook contains the process of building a classifier in both Liverpool and Bradford using census data. This was my contribution of a group project, whereby the task was to assess whether high streets served the surrounding populations.
+
+The [Bathing Water Quality OLS Regression File](bathingwaterquality-OLSregression.ipynb) is my contribution in a group analysis of bathing water. My section involved the statistical exploration of the predictive variables of certain bacterias in the water. This analysis was conducted by building OLS linear regression models. The regression results were later incorporated into a GUI application.
