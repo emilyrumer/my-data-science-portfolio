@@ -6,10 +6,10 @@ The [Undergraduate Dissertation](undergraduate-dissertation) folder contains the
 
 The file titled [Police Trust Authoritarian Personality Project](police-trust-authoritarian-personality-project) contains the R script and pdf report output to an analysis of the British Social Attitudes Survey 2021. It seeks to answer the question: Does someone’s trust in the police vary depending on where they are on the libertarian-authoritarian scale? The analysis in the project is conducted with OLS simple and multiple linear regression.
 
-The folder named [Job Satisfaction ESS10](job-satisfaction-ESS10) is an analysis of Job Satisfaction across Europe, with data from the European Social Survey 10. Methods employed in this study include K-Means clustering and multi-level modelling.
+The folder named [Job Satisfaction ESS10](job-satisfaction-ESS10) is an analysis of Job Satisfaction across Europe, with data from the European Social Survey 10. Methods employed in this study include K-Means clustering and multi-level modelling. The file includes the R script and a pdf report output.
 
 
-The [Transport Project Notebook](transport-project.ipynb) contains the code, analysis outputs and interpretations to a research project which investigates the relationship between transport and income in Norfolk and West Yorkshire. Research questions answered within this project include:
+The [Transport Project Notebook](transport-project.ipynb) contains the Python code notebook, analysis outputs and interpretations to a research project which investigates the relationship between transport and income in Norfolk and West Yorkshire. Research questions answered within this project include:
    1. Is there a difference in the average income in Norfolk and West Yorkshire?
    2. How does the Rural/Urban Classification of Norfolk and West Yorkshire MSOAs differ?
    3. Is there a difference in the transport methods that people use to travel to work in Norfolk and West Yorkshire?
