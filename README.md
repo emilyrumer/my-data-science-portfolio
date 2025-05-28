@@ -1,4 +1,4 @@
-# My Data Science Work
+# My Data Science Portfolio
 
 This is a repository demonstrating a selection of my data science and analytics work. 
 
