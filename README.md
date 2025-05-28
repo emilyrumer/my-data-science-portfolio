@@ -2,7 +2,7 @@
 
 This is a repository demonstrating a selection of my data science and analytics work. 
 
-The [First R Coding Workshops](first-R-coding-workshops) folder contains my earliest experiences of learning R. The scripts within the folder contain my annotated workshops in the topics of data wrangling, visualisation, continuous data, linear regression and logistic regression.
+The [First R Coding Workshops](first-R-coding-workshops) folder contains my earliest experiences of learning R, from the final year of my undergraduate in 2023. The scripts within the folder contain my annotated workshops in the topics of data wrangling, visualisation, continuous data, linear regression and logistic regression.
 
 The [Undergraduate Dissertation](undergraduate-dissertation) folder contains the R script, and written output to my BSc Criminal Justice and Criminology (with quantitative research methods) dissertation. The study is titled: 'An Empirical Study into the Relationship Between Mental Wellbeing and Cell-Sharing in Male Prisons in England and Wales', and is an analysis of the HMIP Prisoner Survey 2022/23. Logistic regression is used to reach the conclusion that prisoners in individual cells are more likely to experience mental health problems than those in shared-cells.
 
